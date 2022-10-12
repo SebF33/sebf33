@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&size=18&pause=1000&color=CBC5AD&center=true&width=435&lines=Bienvenue+dans+mon+atelier+du+d%C3%A9v+!)](https://git.io/typing-svg)
 
 <h2 align="center">Salut 👋, je suis Seb, ici vous trouverez du code et des vidéos...</h2>
@@ -12,14 +8,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebf33&layout=compact)
-
-## Dépôts
-
-[![Magicardt](https://github-readme-stats.vercel.app/api/pin/?username=sebf33&repo=magicardt&show_owner=true)](https://github.com/sebf33/magicardt)
-
-[![Thaimes](https://github-readme-stats.vercel.app/api/pin/?username=sebf33&repo=thaimes&show_owner=true)](https://github.com/sebf33/thaimes)
-
-[![Sebflix](https://github-readme-stats.vercel.app/api/pin/?username=sebf33&repo=sebflix&show_owner=true)](https://github.com/sebf33/sebflix)
 
 ## Démos
 
@@ -42,5 +30,9 @@ Projet web from scratch — Sebflix :
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+
+<p align="center">
+  <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=sebf33)
