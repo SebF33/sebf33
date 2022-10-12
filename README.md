@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
 </p>
@@ -49,21 +48,3 @@ Projet web from scratch — Sebflix :
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 
 ![](https://komarev.com/ghpvc/?username=sebf33)
-=======
-### Hi there 👋
-
-<!--
-**SebF33/sebf33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 80dc31045e6a47bf19d81ccb84c0c7561532db35
