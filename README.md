@@ -7,8 +7,6 @@
   <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="Medium" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCjwYESom5l53m9kS_OOnVqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="Medium" height="40" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebf33&layout=compact)
-
 ## Démos
 
 Projet web avec conso d’API — Magicardt :
@@ -22,6 +20,10 @@ Projet web avec framework — Thaimes :
 Projet web from scratch — Sebflix :
 
 [![Projet web from scratch — Sebflix](https://raw.githubusercontent.com/sebf33/sebf33/master/assets/sebflix.png)](https://youtu.be/9nsG9OynBxs "Projet web from scratch — Sebflix")
+
+## Langages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebf33&layout=compact)
 
 ## Outils
 
