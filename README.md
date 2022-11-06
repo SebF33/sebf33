@@ -33,6 +33,10 @@ Projet web from scratch — Sebflix :
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 
+<br/>
+[![sebf33](https://activity-graph.herokuapp.com/graph?username=sebf33&color=CBC5AD&line=CBC5AD&point=CBC5AD&theme=github-dark&hide_border=true)](https://github.com/sebf33)
+<br/>
+
 <p align="center">
   <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
 </p>
