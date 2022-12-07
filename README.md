@@ -4,7 +4,7 @@
 <h3 align="center">HTML, CSS, JavaScript, PHP, MySQL : les 5 piliers sur lesquels s'appuient mes travaux.</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="Medium" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCjwYESom5l53m9kS_OOnVqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="Medium" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCjwYESom5l53m9kS_OOnVqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="youtube" height="40" width="40" /></a>
 </p>
 
 ## Démos
@@ -27,17 +27,13 @@ Projet web from scratch — Sebflix :
 
 ## Outils
 
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/vsc.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows8" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-
-<br/>
-
-[![sebf33](https://activity-graph.herokuapp.com/graph?username=sebf33&color=CBC5AD&line=CBC5AD&point=CBC5AD&theme=github-dark&hide_border=true)](https://github.com/sebf33)
-
-<br/>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/vsc.svg" alt="vsc" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/bash.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/git.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/windows.svg" alt="windows" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linux.svg" alt="linux" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/illustrator.svg" alt="illustrator" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/photoshop.svg" alt="photoshop" width="40" height="40"/></code>
 
 <p align="center">
   <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
