@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&size=18&pause=1000&color=CBC5AD&center=true&width=435&lines=Bienvenue+dans+mon+atelier+du+d%C3%A9v+!)](https://git.io/typing-svg)
-
+<img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/header.png" alt="SebF33 GitHub README header">
 <h2 align="center">Salut 👋, je suis Seb, ici vous trouverez du code et des vidéos...</h2>
 <h3 align="center">HTML, CSS, JavaScript, PHP, MySQL : les 5 piliers sur lesquels s'appuient mes travaux.</h2>
 
@@ -30,6 +30,7 @@ Projet web from scratch — Sebflix :
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/vsc.svg" alt="vsc" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/bash.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/git.svg" alt="git" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/github.svg" alt="github" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/windows.svg" alt="windows" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linux.svg" alt="linux" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/illustrator.svg" alt="illustrator" width="40" height="40"/></code>
