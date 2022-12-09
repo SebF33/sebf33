@@ -40,4 +40,6 @@ Projet web from scratch — Sebflix :
   <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
 </p>
 
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=sebf33)
+</p>
