@@ -1,3 +1,4 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&size=18&pause=1000&color=CBC5AD&center=true&width=435&lines=Bienvenue+dans+mon+atelier+du+d%C3%A9v+!)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/header.png" alt="SebF33 GitHub README header">
 <h2 align="center">Salut 👋, je suis Seb, ici vous trouverez du code et des vidéos...</h2>
@@ -42,4 +43,3 @@ Projet web from scratch — Sebflix :
 
 <p align="center">
 ![](https://komarev.com/ghpvc/?username=sebf33)
-</p>
