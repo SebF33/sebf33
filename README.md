@@ -9,17 +9,9 @@
 
 ## Démos
 
-Projet web avec conso d’API — Magicardt :
-
-[![Projet web avec conso d’API — Magicardt](https://raw.githubusercontent.com/sebf33/sebf33/master/assets/magicardt.png)](https://youtu.be/wl5Ld7shHVw "Projet web avec conso d’API — Magicardt")
-
-Projet web avec framework — Thaimes :
-
-[![Projet web avec framework — Thaimes](https://raw.githubusercontent.com/sebf33/sebf33/master/assets/thaimes.png)](https://youtu.be/_hl4ums-3L0 "Projet web avec framework — Thaimes")
-
-Projet web from scratch — Sebflix :
-
-[![Projet web from scratch — Sebflix](https://raw.githubusercontent.com/sebf33/sebf33/master/assets/sebflix.png)](https://youtu.be/9nsG9OynBxs "Projet web from scratch — Sebflix")
+<p align="center">
+  <a href="https://youtu.be/wl5Ld7shHVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/magicardt.png" alt="Projet web avec conso d’API — Magicardt" /></a> <a href="https://youtu.be/_hl4ums-3L0" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/thaimes.png" alt="Projet web avec framework — Thaimes" /></a> <a href="https://youtu.be/9nsG9OynBxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/sebflix.png" alt="Projet web from scratch — Sebflix" /></a>
+</p>
 
 ## Langages
 
