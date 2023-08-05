@@ -15,9 +15,7 @@
 
 ## Langages
 
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebf33&layout=compact&theme=transparent)
-</p>
 
 ## Outils
 
