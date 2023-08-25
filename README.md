@@ -4,7 +4,7 @@
 <h3 align="center">HTML, CSS, JavaScript, PHP, MySQL : les 5 piliers sur lesquels s'appuient mes travaux.</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.youtube.com/channel/UCjwYESom5l53m9kS_OOnVqw"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="youtube" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.youtube.com/@ifseb"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="youtube" height="40" width="40" /></a>
 </p>
 
 ## Démos
