@@ -10,7 +10,7 @@
 ## Démos
 
 <p align="center">
-  <a href="https://youtu.be/wl5Ld7shHVw"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/magicardt.png" alt="Projet web avec conso d’API — Magicardt" /></a> <a href="https://youtu.be/_hl4ums-3L0"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/thaimes.png" alt="Projet web avec framework — Thaimes" /></a> <a href="https://youtu.be/9nsG9OynBxs"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/sebflix.png" alt="Projet web from scratch — Sebflix" /></a>
+  <a href="https://youtu.be/eLGASCEowbo"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/creativite.png" alt="Créativité — Les technos du moment" /></a> <a href="https://youtu.be/wl5Ld7shHVw"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/magicardt.png" alt="Projet web avec conso d’API — Magicardt" /></a> <a href="https://youtu.be/_hl4ums-3L0"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/thaimes.png" alt="Projet web avec framework — Thaimes" /></a> <a href="https://youtu.be/9nsG9OynBxs"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/sebflix.png" alt="Projet web from scratch — Sebflix" /></a>
 </p>
 
 ## Langages
