@@ -32,4 +32,4 @@
   <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=sebf33)
+![Profile Views](https://komarev.com/ghpvc/?username=sebf33&color=437eb0&label=VUES&style=plastic)
