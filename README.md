@@ -17,7 +17,7 @@
 
 ## Langages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebf33&layout=compact&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sebf33&locale=fr&layout=compact&hide_border=true&theme=transparent)
 
 ## Outils
 
