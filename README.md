@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="LinkedIn" width="40" style="margin: 5px;" title="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="LinkedIn" width="40" style="margin: 5px; display:inline-block;" title="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@ifseb" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="YouTube" width="40" style="margin: 5px;" title="YouTube"/>
+    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="YouTube" width="40" style="margin: 5px; display:inline-block;" title="YouTube"/>
   </a>
 </p>
 
