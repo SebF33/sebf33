@@ -6,12 +6,20 @@
 <h3 align="center">HTML, CSS, JavaScript, PHP, MySQL : les 5 piliers sur lesquels s'appuient mes travaux.</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="LinkedIn" width="40" style="margin: 5px; display:inline-block;" title="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@ifseb" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="YouTube" width="40" style="margin: 5px; display:inline-block;" title="YouTube"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205">
+          <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" width="40" alt="LinkedIn" title="LinkedIn"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/@ifseb">
+          <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" width="40" alt="YouTube" title="YouTube"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## Démos
