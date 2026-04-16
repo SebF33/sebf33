@@ -6,7 +6,12 @@
 <h3 align="center">HTML, CSS, JavaScript, PHP, MySQL : les 5 piliers sur lesquels s'appuient mes travaux.</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://www.youtube.com/@ifseb"><img align="center" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" alt="youtube" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sébastien-flouriot-99aa75205">
+    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linkedin.svg" width="40" style="margin: 5px;" title="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@ifseb">
+    <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/youtube.svg" width="40" style="margin: 5px;" title="YouTube"/>
+  </a>
 </p>
 
 ## Démos
@@ -21,14 +26,16 @@
 
 ## Outils
 
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/vsc.svg" alt="vsc" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/bash.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/git.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/github.svg" alt="github" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/windows.svg" alt="windows" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linux.svg" alt="linux" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/illustrator.svg" alt="illustrator" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/photoshop.svg" alt="photoshop" width="40" height="40"/></code>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/vsc.svg" width="40" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/bash.svg" width="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/git.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/github.svg" width="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/windows.svg" width="40" title="Windows"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/linux.svg" width="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/illustrator.svg" width="40" title="Illustrator"/>
+  <img src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/photoshop.svg" width="40" title="Photoshop"/>
+</p>
 
 <p align="center">
   <img align="center" width="100" src="https://raw.githubusercontent.com/sebf33/sebf33/master/assets/avatar.png" />
